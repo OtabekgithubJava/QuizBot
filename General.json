@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "How many years does a baobab tree live?",
+    "A": "100",
+    "B": "1000",
+    "C": "2000",
+    "D": "4000",
+    "CorrectAnswer": "D"
+  },
+  {
+    "Question": "Which plants are resistant to camels?",
+    "A": "Ajriq",
+    "B": "Namatak",
+    "C": "Makkajoxori",
+    "D": "Bugdoy",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Question": "How many types of plastids are there?",
+    "A": "3",
+    "B": "2",
+    "C": "4",
+    "D": "0",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Question": "Find the star-shaped flowers.",
+    "A": "Lavlagi",
+    "B": "Karam",
+    "C": "Bugdoy",
+    "D": "Mosh",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Question": "Identify an annual plant.",
+    "A": "Bugdoy",
+    "B": "Ajriq",
+    "C": "Namatak",
+    "D": "Yantoq",
+    "CorrectAnswer": "A"
+  }
+]

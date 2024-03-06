@@ -1,0 +1,38 @@
+[
+    {
+        "Question": "Who said: \"The hardest thing in football is answering the UEFA and FIFA journalist's question\"?",
+        "A": "Ansu Fati",
+        "B": "CR7",
+        "C": "Sadio Mane",
+        "D": "Leo Messi",
+        "CorrectAnswer": "D"
+    }, {
+        "Question": "Which is a synonym of \"impossible\"?",
+        "A": "Extreme",
+        "B": "Insurmountable",
+        "C": "Feasible",
+        "D": "Easy-go",
+        "CorrectAnswer": "B"
+    },{
+        "Question": "Which word/pharse is used to imply \"is used to doing\"?",
+        "A": "Will",
+        "B": "Could",
+        "C": "Would",
+        "D": "Did",
+        "CorrectAnswer": "C"
+    },{
+        "Question": "What is the main nuance between 'will' and 'going to'?",
+        "A": "Probability",
+        "B": "Expectations",
+        "C": "No difference",
+        "D": "Format",
+        "CorrectAnswer": "A"
+    },{
+        "Question": "What is the past tense of \"go\"",
+        "A": "Going",
+        "B": "Gone",
+        "C": "Goed",
+        "D": "Went",
+        "CorrectAnswer": "D"
+    }
+]
