@@ -42,7 +42,7 @@ public class Program
     
     public static async Task Main(string[] args)
     {
-        var botClient = new TelegramBotClient("6893391980:AAFPI3GbNy_ivuGQQ77EPmotLl7RIxOPUfE");
+        var botClient = new TelegramBotClient("X"); // gotta edit hide the token
         PdfDownload pdfDownload = new PdfDownload();
         ContactPdf contactPdf = new ContactPdf();
         Class1 class1 = new Class1();
